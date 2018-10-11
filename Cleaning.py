@@ -8,7 +8,7 @@ import re
 #########################GET INFO AND OUTLIERS
 # df = pd.read_csv(r'C:\Skyhook\Helsingborg\Hel1.csv' , sep=',', encoding = "ANSI")
 # print('df.head()')
-# print(df.head())
+# print(df.head())g
 # print('df.tail()')
 # print(df.tail())
 # print('df.columns')
